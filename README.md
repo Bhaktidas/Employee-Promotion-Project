@@ -20,8 +20,6 @@ Notification system: The project includes a notification system to alert manager
 ## Installation
 
 To install this project, simply download the code from the repository and follow the instructions in the README file.
-
-```
     
 ## Usage/Examples
 
