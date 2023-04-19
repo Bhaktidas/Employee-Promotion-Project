@@ -3,7 +3,7 @@
 
 This project is designed to help managers identify top-performing employees and promote them to higher positions within the organization. The goal of the project is to improve employee engagement, retention, and productivity while ensuring that the organization has the talent it needs to succeed.
 
-##Project Description
+## Project Description
 
 The Employee Promotion Prediction is a Python project designed to predict whether an employee is likely to be promoted based on various factors. The project aims to help companies identify high-performing employees and make informed decisions about promotion opportunities.
 
